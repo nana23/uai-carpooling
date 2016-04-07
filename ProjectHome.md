@@ -1,0 +1,1 @@
+Aplicación que permite a alumnos de la UAI coordinar carpools para facilitar el ingreso y egreso de la universidad durante la semana, utilizando Facebook como plataforma.
